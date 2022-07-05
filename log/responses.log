@@ -1,0 +1,26 @@
+2022-07-04 09:44:00,233 {'input': 'borschtgg', 'response': '400 Bad Request'}
+2022-07-04 09:44:20,938 {'input': 'love', 'response': 'en-us'}
+2022-07-04 11:21:27,715 {'input': 'I am good', 'response': 'en-us'}
+2022-07-04 12:26:23,841 {'input': 'I am highly happy', 'response': 'en-us'}
+2022-07-04 12:26:41,811 {'input': 'I am highly happyd', 'response': '400 Bad Request'}
+2022-07-04 12:27:05,324 {'input': 'Go home', 'response': 'en-us'}
+2022-07-04 12:39:46,045 {'input': 'Let home', 'response': 'en-us'}
+2022-07-04 12:45:18,600 {'input': 'Let sir', 'response': 'en-us'}
+2022-07-04 12:45:53,873 {'input': 'I sir', 'response': 'en-us'}
+2022-07-04 13:03:36,788 {'input': 'I look', 'response': 'en-us'}
+2022-07-04 13:28:08,381 {'input': 'I look', 'response': 'en-US'}
+2022-07-04 13:28:13,740 {'input': 'I loofjk', 'response': '400 Bad Request'}
+2022-07-04 13:28:38,719 {'input': 'life is good', 'response': 'en-US'}
+2022-07-04 13:28:47,833 {'input': 'life is better', 'response': 'en-US'}
+2022-07-04 13:28:57,518 {'input': 'lifhe is better', 'response': '400 Bad Request'}
+2022-07-04 13:59:15,081 {'input': 'lifhe is better', 'response': '400 Bad Request'}
+2022-07-04 14:00:57,128 Shutting down
+2022-07-04 14:00:57,236 Waiting for application shutdown.
+2022-07-04 14:00:57,238 Application shutdown complete.
+2022-07-04 14:00:57,239 Finished server process [17184]
+2022-07-04 19:04:11,927 {'input': '3', 'response': '400 Bad Request'}
+2022-07-04 19:09:14,614 {'input': '', 'response': 'en-US'}
+2022-07-04 19:09:56,543 {'input': 'God is great', 'response': 'en-US'}
+2022-07-04 19:10:06,476 {'input': 'God is gkfreat', 'response': '400 Bad Request'}
+2022-07-05 13:13:00,894 {'input': 'hhh', 'response': '400 Bad Request'}
+2022-07-05 13:23:45,618 Shutting down
