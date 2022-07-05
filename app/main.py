@@ -48,8 +48,6 @@ async def classify_input(sentence: Sentence):
     response = {}
     for word in words:
         word = word.lower()
-        print(type(word))
-        print("word")
         word_dict = get_dictionary(word[0])
         if word_dict.get(word) :
             pass
